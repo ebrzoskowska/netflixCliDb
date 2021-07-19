@@ -1,0 +1,24 @@
+{
+  "name": "netflixclidb",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000e\u0000t\u0000f\u0000l\u0000i\u0000x\u0000C\u0000l\u0000i\u0000D\u0000b\u0000\r\u0000 \u0000",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrzoskowska/netflixCliDb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrzoskowska/netflixCliDb/issues"
+  },
+  "homepage": "https://github.com/ebrzoskowska/netflixCliDb#readme",
+  "dependencies": {
+    "mongodb": "^4.0.0",
+    "yargs": "^17.0.1"
+  }
+}
